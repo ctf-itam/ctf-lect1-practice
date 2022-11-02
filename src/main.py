@@ -5,7 +5,7 @@ import logging                      # Logging important events
 from dotenv import load_dotenv      # Load environment variables from .env
 
 # Define project name
-project_name = "vale-pwnbox"
+project_name = "vale-pwnbox0"
 
 # region Logging
 # Create a logger instance
